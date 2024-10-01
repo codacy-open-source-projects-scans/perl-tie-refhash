@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/Tie-RefHash-*/
+/Tie-RefHash-*.tar.gz
